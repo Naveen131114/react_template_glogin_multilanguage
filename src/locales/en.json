@@ -1,0 +1,26 @@
+{
+  "login": {
+    "title": "Login",
+    "google_button": "Login with Google"
+  },
+  "username": "Username",
+  "password": "Password",
+  "or": "or",
+  "home": {
+    "welcome": "Welcome to the Homepage",
+    "description": "This is a multi-language React site"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "We build full stack solutions"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "logout": "Logout"
+  },
+  "footer": {
+    "copyright": "All rights reserved"
+  }
+}
