@@ -5,6 +5,7 @@ import Register from '../features/auth/pages/register'
 import HomePage from '../features/courses/pages/HomePage'
 import AboutPage from '../features/courses/pages/AboutPage'
 import AppLayout from '../common/layouts/AppLayout'
+import ContactPage from '../features/courses/pages/ContactPage'
 
 export default function AppRoutes() {
 	return (
@@ -21,6 +22,7 @@ export default function AppRoutes() {
 				>
 					<Route path="home" element={<HomePage />} />
 					<Route path="about" element={<AboutPage />} />
+					<Route path="contact" element={<ContactPage />} />
 				</Route>
 			</Routes>
 		</Router>

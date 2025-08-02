@@ -8,11 +8,25 @@
   "or": "or",
   "home": {
     "welcome": "Welcome to the Homepage",
-    "description": "This is a multi-language React site"
+    "description": "This is a multi-language React site",
+    "subheading": "Empowering users worldwide",
+    "additional_info": "Our platform is trusted by learners and professionals alike."
   },
   "about": {
     "title": "About Us",
-    "content": "We build full stack solutions"
+    "content": "We build full stack solutions tailored to your needs. Our team of experienced developers, designers, and strategists are passionate about delivering quality software that transforms businesses."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Your Name",
+    "email": "Your Email",
+    "message": "Your Message",
+    "submit": "Submit",
+    "address_title": "Our Address",
+    "address_line1": "123, Tech Street, Chennai",
+    "address_line2": "Tamil Nadu, India - 600001",
+    "phone": "Phone: +91 98765 43210",
+    "email_label": "Email"
   },
   "header": {
     "home": "Home",

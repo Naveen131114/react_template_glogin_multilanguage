@@ -81,11 +81,11 @@ const LoginPage = () => {
 						</button>
 					</form>
 
-					<div className="my-4 text-center text-gray-500">{t("or")}</div>
+					<div className="my-2 text-center text-gray-500">{t("or")}</div>
 
 					<button
 						onClick={handleGoogleLogin}
-						className="w-full bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-lg flex items-center justify-center gap-2"
+						className="w-full bg-red-500 hover:bg-red-600 text-white px-6 py-2 rounded-lg flex items-center justify-center gap-2"
 					>
 						<FcGoogle className="text-xl" />
 						<span>{t("login.google_button")}</span>
